@@ -3,6 +3,7 @@
 [![Dependency Status](https://gemnasium.com/Sage/fudge.png)](https://gemnasium.com/Sage/fudge)
 [![Code Climate](https://codeclimate.com/github/Sage/fudge.png)](https://codeclimate.com/github/Sage/fudge)
 [![Gem Version](https://badge.fury.io/rb/fudge.png)](http://badge.fury.io/rb/fudge)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fsage-portugal%2Ffudge.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fsage-portugal%2Ffudge?ref=badge_shield)
 
 ## Description
 
@@ -366,3 +367,7 @@ flog:
   average: 9.1
 ```
 You can set the default values in your `Fudgefile` and override them only as necessary in specific subdiretories.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fsage-portugal%2Ffudge.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fsage-portugal%2Ffudge?ref=badge_large)
